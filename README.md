@@ -2,7 +2,7 @@
   APPLE
 </h1>
 
-<img src="" width="100%">
+<img src="https://user-images.githubusercontent.com/81686496/188251520-23b223be-9da8-409d-9a55-e80ce64fb176.gif" width="100%">
 
 <p align="center">
   <img alt="logo da apple" src="./img/logo1.png" width="5%">
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/Landing-Page-Apple?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
+  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/LandingPage-iPhone?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/Landing-Page-Apple?label=stars&message=MIT&color=161e2f&labelColor=107770 " alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/LandingPage-iPhone?label=stars&message=MIT&color=161e2f&labelColor=107770 " alt="Stars">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/Landing-Page-Apple/
+Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/LandingPage-iPhone/
 
 ## 🎨 Inspiração:
 
