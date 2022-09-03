@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #E8E6E7;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 10px;
+    background-color: #1D1D1F;
+    border: 1px solid #000000;
+    width: 100%;
+    transition: all 0.5s;
+    position: fixed;
+}
+
+.navigation img {
+    width: 1.8%;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.navigation ul {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.navigation ul li a {
+    color: #888888;
+    font-size: 17px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.navigation ul li a:hover {
+    cursor: pointer;
+    font-size: 1rem;
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.nav-menu {
+    margin-right: 3rem;
+}
+
+.home {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10%;
+}
+
+.home-text {
+
+}
+
+#logo {
+    width: 25%;
+    margin-bottom: 25px;
+}
+
+.text-h1 {
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 25px;
+}
+
+.home-text p {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    margin-bottom: 5px;
+}
+
+.text-price {
+    color: #999999;
+    font-weight: 700;
+    font-size: 10px;
+}
+
+.buy-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    background-color: #0071E3;
+    font-size: 15px;
+    font-weight: 500;
+    width: 115px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 20px 0 20px;
+}
+
+.buy-btn:hover {
+    background-color: #0049f3;
+    box-shadow: rgba(255, 255, 255, 0.15)
+}
+.text-colors {
+    font-weight: 600;
+    font-size: 12px;
+    color: #444444;
+}
+
+.img-phone img {
+    width: 354px;
+    height: 440px;
+}
+
+.colors {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+#green {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #384937;
+    box-shadow: 1px 1px 1px rgba(136, 136, 136, 0.25);
+}
+
+#pink {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #F8DDD6;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+#blue {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #225F7E;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+#midnight {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #192028;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+#stellar {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #F7F2EE;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+#red {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #AE0617;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
