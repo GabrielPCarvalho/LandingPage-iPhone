@@ -2,7 +2,7 @@
   APPLE
 </h1>
 
-<img src="https://user-images.githubusercontent.com/81686496/188251520-23b223be-9da8-409d-9a55-e80ce64fb176.gif" width="100%">
+<img src="" width="100%">
 
 <p align="center">
   <img alt="logo da apple" src="./img/logo1.png" width="5%">
